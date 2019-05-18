@@ -1196,5 +1196,8 @@
 	
 }
 .header-2{
-	display: block;;
+	display: block;
+}
+.main-head {
+	text-align:center;
 }
